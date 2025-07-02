@@ -1,0 +1,3 @@
+hello, vim!
+I am learning by doing in vim.
+Let's try the vimtutor and save our work.
